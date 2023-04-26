@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Привет%20мир!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Добро%20пожаловать%20на%20мой%20GitHub%20профиль!&descAlignY=51&descAlign=62)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efefew&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20world!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=My%20GitHub%20profile!&descAlignY=51&descAlign=62)
+[![efefew GitHub stats](https://github-readme-stats.vercel.app/api?username=efefew&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efefew&hide_progress=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-## Мои проекты
+## My projects:
+[<img src="https://user-images.githubusercontent.com/29331867/224493599-65c92712-6905-47ef-bea8-d90d7094fe57.png" width="240">](https://github.com/efefew/Local-Chess)[<img src="https://user-images.githubusercontent.com/29331867/234647109-a5c056a0-e566-4bbd-bb39-747cfad0fc4c.png" width="240">](https://github.com/efefew/Sapper)
