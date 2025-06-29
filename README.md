@@ -1,3 +1,4 @@
+[Russian readme](https://github.com/efefew/efefew/blob/main/README_RUS.md)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20world!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=My%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
 ## My projects:
