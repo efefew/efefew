@@ -30,7 +30,7 @@
 * Кроссплатформенная разработка: iOS, Android, Windows
 * Система контроля версий Git
 * Инструменты оптимизации производительности: Addressables, Scriptable Objects, UniTask
-
+* Опыт с Physics/Collider/Joint систем Unity
 ---
 
 **Образование**
