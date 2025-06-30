@@ -13,7 +13,7 @@ C# Developer with 5 years of programming experience in Unity. Skilled in game de
 
 **Work Experience**
 
-* Developed Unity games for publication on Yandex Games.
+* Developed Unity games for publication on Yandex Games (WebGL).
   Link: [https://yandex.ru/games/app/407211?debug-mode=16\&draft=true\&lang=ru](https://yandex.ru/games/app/407211?debug-mode=16&draft=true&lang=ru)
 * Built multiplayer projects in Unity using Mirror, with basic experience in Photon.
 * Integrated various databases: Firebase, MongoDB, MySQL.
