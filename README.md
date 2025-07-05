@@ -37,7 +37,7 @@ C# Developer with 5 years of programming experience in Unity. Skilled in game de
 * Cross‑platform development: iOS, Android, Windows
 * Version control with Git
 * Performance optimization tools: Addressables, Scriptable Objects, UniTask
-
+* Tools: DOTween, Unity Localization
 ---
 
 **Education**
