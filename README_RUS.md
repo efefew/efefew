@@ -19,6 +19,8 @@
   Ссылка: [https://yandex.ru/games/app/407211?debug-mode=16\&draft=true\&lang=ru](https://yandex.ru/games/app/407211?debug-mode=16&draft=true&lang=ru)
 * Создание мультиплеерных проектов в Unity с использованием Mirror; базовый опыт работы с Photon
 * Интеграция баз данных: Firebase, MongoDB, MySQL
+* Работа с VR metaXR
+  Ссылка: https://github.com/efefew/VR
 * Уверенное знание C#; дополнительные навыки программирования на Python, C++ и C
 * Знание веб-технологий: HTML, CSS, JavaScript и Node.js
 * Применение принципов SOLID
