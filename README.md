@@ -44,7 +44,7 @@ C# Developer with 5 years of programming experience in Unity. Skilled in game de
 
 **Education**
 Kazan National Research Technological University (KNRTU‑KTU)
-Master’s in Systems Analysis and Control (4th year completed)
+Postgraduate study in Systems Analysis and Management (1st year)
 
 ---
 
