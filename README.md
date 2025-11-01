@@ -1,6 +1,6 @@
 # [Русский readme](https://github.com/efefew/efefew/blob/main/README_RUS.md)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Q4697&fontSize=75&animation=fadeIn&fontAlignY=30&desc=My%20GitHub%20profile!&descAlignY=51&descAlign=62)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=q4697&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ## My projects:
 [<img src="https://user-images.githubusercontent.com/29331867/224493599-65c92712-6905-47ef-bea8-d90d7094fe57.png" width="240">](https://github.com/efefew/Local-Chess)
 [<img src="https://user-images.githubusercontent.com/29331867/234648282-c2e3922b-d817-4e42-958c-4c8b07ef420e.png" width="240">](https://github.com/efefew/Sapper)
