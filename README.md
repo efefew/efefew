@@ -20,6 +20,8 @@ C# Developer with 5 years of programming experience in Unity. Skilled in game de
   Link: [https://yandex.ru/games/app/407211?debug-mode=16\&draft=true\&lang=ru](https://yandex.ru/games/app/407211?debug-mode=16&draft=true&lang=ru)
 * Built multiplayer projects in Unity using Mirror, with basic experience in Photon.
 * Integrated various databases: Firebase, MongoDB, MySQL.
+* Working with VR metaXR
+  The link: https://github.com/efefew/VR
 * Proficient in C#; additional programming knowledge in Python, C++, and C.
 * Familiar with web technologies: HTML, CSS, JavaScript, and Node.js.
 * Solid understanding of SOLID principles.
