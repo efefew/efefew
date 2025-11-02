@@ -61,4 +61,5 @@
 **Ссылки**
 
 * GitHub: [https://github.com/efefew](https://github.com/efefew)
+* Контакт (WhatsApp): https://wa.me/79196872032
 * Контакт (Telegram): [https://t.me/q4697](https://t.me/q4697)
