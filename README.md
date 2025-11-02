@@ -61,5 +61,6 @@ Postgraduate study in Systems Analysis and Management (1st year)
 **Links**
 
 * GitHub: [https://github.com/efefew](https://github.com/efefew)
+* Contact (WhatsApp): https://wa.me/79196872032
 * Contact (Telegram): [https://t.me/q4697](https://t.me/q4697)
 
