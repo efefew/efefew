@@ -17,7 +17,7 @@ C# Developer (starting from 2017) with 8 years of programming experience in Unit
 **Work Experience**
 
 * Developed Unity games for publication on Yandex Games (WebGL).
-  Link: [https://yandex.ru/games/app/407211?debug-mode=16\&draft=true\&lang=ru](https://yandex.ru/games/app/407211?debug-mode=16&draft=true&lang=ru)
+  Link: https://yandex.ru/games/app/391490?utm_source=game_header_logo
 * Built multiplayer projects in Unity using Mirror, with basic experience in Photon.
 * Integrated various databases: Firebase, MongoDB, MySQL.
 * Working with VR metaXR
