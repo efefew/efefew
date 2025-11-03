@@ -10,7 +10,7 @@
 
 **General Information**
 
-C# Developer (from 2017) with 8 years of programming experience in Unity. Skilled in game development, including gameplay mechanics, animation control, UI creation, and sound effect integration. Experienced working across multiple platforms and operating systems, including iOS, Android, and Windows.
+C# Developer (starting from 2017) with 8 years of programming experience in Unity. Skilled in game development, including gameplay mechanics, animation control, UI creation, and sound effect integration. Experienced working across multiple platforms and operating systems, including iOS, Android, and Windows.
 
 ---
 
