@@ -16,7 +16,7 @@
 **Опыт работы**
 
 * Разработка игр на Unity для публикации на Yandex Games (WebGL).
-  Ссылка: [https://yandex.ru/games/app/407211?debug-mode=16\&draft=true\&lang=ru](https://yandex.ru/games/app/407211?debug-mode=16&draft=true&lang=ru)
+  Ссылка: [пример](https://yandex.ru/games/app/391490?utm_source=game_header_logo)
 * Создание мультиплеерных проектов в Unity с использованием Mirror; базовый опыт работы с Photon
 * Интеграция баз данных: Firebase, MongoDB, MySQL
 * Работа с VR metaXR
